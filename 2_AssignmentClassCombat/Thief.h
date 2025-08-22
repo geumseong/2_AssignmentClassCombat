@@ -8,6 +8,6 @@ class Thief : public Player
 public:
 	Thief(string nickname);
 	string nickname;
-	void Attack();
+	void Attack() override;
 	void Attack(Monster* monster);
 };

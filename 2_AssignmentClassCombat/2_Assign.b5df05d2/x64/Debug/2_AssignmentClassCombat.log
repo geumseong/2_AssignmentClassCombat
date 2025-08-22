@@ -1,4 +1,7 @@
-﻿  Warrior.cpp
+﻿  Archer.cpp
+  Magician.cpp
+  Thief.cpp
+  Warrior.cpp
   main.cpp
   코드를 생성하고 있습니다...
   2_AssignmentClassCombat.vcxproj -> D:\Sparta\C++Assignment_2\2_AssignmentClassCombat\2_AssignmentClassCombat\x64\Debug\2_AssignmentClassCombat.exe

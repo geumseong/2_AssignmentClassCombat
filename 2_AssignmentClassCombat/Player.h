@@ -19,7 +19,7 @@ public:
 	int getSpeed() { return speed; }
 
 	void setJobName(string jobName) { this->jobName = jobName; }
-	void setNickname(string nickname) { this, nickname = nickname; }
+	void setNickname(string nickname) { this->nickname = nickname; }
 	void setLevel(int level) {this->level = level;}
 	bool setHP(int hp);
 	bool setMP(int mp);

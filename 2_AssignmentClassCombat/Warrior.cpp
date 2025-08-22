@@ -14,7 +14,15 @@ Warrior::Warrior(string nickname) : Player(nickname)
 	this->setDefence(15);
 	this->setAccuracy(7);
 	this->setSpeed(10);
+	//PrintNickname(nickname);
+	//cout << "워리어 클래스의 닉네임 호출: " << this->getNickname() << endl;
+
 }
+
+//void warrior::printnickname(string nickname)
+//{
+//	cout << "워리어 클래스 오브젝트 생성 후 닉네임: " << nickname << endl;
+//}
 
 void Warrior::Attack()
 {

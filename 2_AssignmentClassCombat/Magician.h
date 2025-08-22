@@ -8,6 +8,6 @@ class Magician : public Player
 public:
 	Magician(string nickname);
 	string nickname;
-	void Attack();
+	void Attack() override;
 	void Attack(Monster* monster);
 };

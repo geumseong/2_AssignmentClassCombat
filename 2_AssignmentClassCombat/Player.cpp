@@ -12,6 +12,7 @@ Player::Player(string nickname) : nickname(nickname)
     this->setDefence(0);
     this->setAccuracy(0);
     this->setSpeed(0);
+    //cout << "플레이어 생성자 후 플레이어의 닉네임: " << this->getNickname() << endl;
 }
 
 //플레이어 hp를 set하고 난 후 생존여부를 bool alive로 반환.

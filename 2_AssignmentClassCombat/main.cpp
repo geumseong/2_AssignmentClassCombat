@@ -16,6 +16,7 @@ int main(){
 
     cout << "* 닉네임을 입력해주세요: ";
     cin >> nickname;
+    cout << endl << nickname << endl;
     cout << "<전직 시스템>" << endl;
     cout << nickname << "님, 환영합니다!" << endl;
     cout << "* 원하시는 직업을 선택해주세요." << endl;
