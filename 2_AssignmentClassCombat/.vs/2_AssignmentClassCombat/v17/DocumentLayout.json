@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "D:\\Sparta\\C\u002B\u002BAssignment_2\\2_AssignmentClassCombat\\2_AssignmentClassCombat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B5DF05D2-4ABA-48E2-8D7E-8DE0DE6109FA}|2_AssignmentClassCombat.vcxproj|D:\\Sparta\\C\u002B\u002BAssignment_2\\2_AssignmentClassCombat\\2_AssignmentClassCombat\\Warrior.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B5DF05D2-4ABA-48E2-8D7E-8DE0DE6109FA}|2_AssignmentClassCombat.vcxproj|solutionrelative:Warrior.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5DF05D2-4ABA-48E2-8D7E-8DE0DE6109FA}|2_AssignmentClassCombat.vcxproj|D:\\Sparta\\C\u002B\u002BAssignment_2\\2_AssignmentClassCombat\\2_AssignmentClassCombat\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B5DF05D2-4ABA-48E2-8D7E-8DE0DE6109FA}|2_AssignmentClassCombat.vcxproj|solutionrelative:Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5DF05D2-4ABA-48E2-8D7E-8DE0DE6109FA}|2_AssignmentClassCombat.vcxproj|D:\\Sparta\\C\u002B\u002BAssignment_2\\2_AssignmentClassCombat\\2_AssignmentClassCombat\\Magician.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B5DF05D2-4ABA-48E2-8D7E-8DE0DE6109FA}|2_AssignmentClassCombat.vcxproj|solutionrelative:Magician.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B5DF05D2-4ABA-48E2-8D7E-8DE0DE6109FA}|2_AssignmentClassCombat.vcxproj|D:\\Sparta\\C\u002B\u002BAssignment_2\\2_AssignmentClassCombat\\2_AssignmentClassCombat\\Archer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B5DF05D2-4ABA-48E2-8D7E-8DE0DE6109FA}|2_AssignmentClassCombat.vcxproj|solutionrelative:Archer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DF05D2-4ABA-48E2-8D7E-8DE0DE6109FA}|2_AssignmentClassCombat.vcxproj|D:\\Sparta\\C\u002B\u002BAssignment_2\\2_AssignmentClassCombat\\2_AssignmentClassCombat\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5DF05D2-4ABA-48E2-8D7E-8DE0DE6109FA}|2_AssignmentClassCombat.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5DF05D2-4ABA-48E2-8D7E-8DE0DE6109FA}|2_AssignmentClassCombat.vcxproj|D:\\Sparta\\C\u002B\u002BAssignment_2\\2_AssignmentClassCombat\\2_AssignmentClassCombat\\Thief.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B5DF05D2-4ABA-48E2-8D7E-8DE0DE6109FA}|2_AssignmentClassCombat.vcxproj|solutionrelative:Thief.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B5DF05D2-4ABA-48E2-8D7E-8DE0DE6109FA}|2_AssignmentClassCombat.vcxproj|D:\\Sparta\\C\u002B\u002BAssignment_2\\2_AssignmentClassCombat\\2_AssignmentClassCombat\\Magician.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5DF05D2-4ABA-48E2-8D7E-8DE0DE6109FA}|2_AssignmentClassCombat.vcxproj|solutionrelative:Magician.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DF05D2-4ABA-48E2-8D7E-8DE0DE6109FA}|2_AssignmentClassCombat.vcxproj|D:\\Sparta\\C\u002B\u002BAssignment_2\\2_AssignmentClassCombat\\2_AssignmentClassCombat\\Warrior.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5DF05D2-4ABA-48E2-8D7E-8DE0DE6109FA}|2_AssignmentClassCombat.vcxproj|solutionrelative:Warrior.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B5DF05D2-4ABA-48E2-8D7E-8DE0DE6109FA}|2_AssignmentClassCombat.vcxproj|D:\\Sparta\\C\u002B\u002BAssignment_2\\2_AssignmentClassCombat\\2_AssignmentClassCombat\\Warrior.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B5DF05D2-4ABA-48E2-8D7E-8DE0DE6109FA}|2_AssignmentClassCombat.vcxproj|solutionrelative:Warrior.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DF05D2-4ABA-48E2-8D7E-8DE0DE6109FA}|2_AssignmentClassCombat.vcxproj|D:\\Sparta\\C\u002B\u002BAssignment_2\\2_AssignmentClassCombat\\2_AssignmentClassCombat\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5DF05D2-4ABA-48E2-8D7E-8DE0DE6109FA}|2_AssignmentClassCombat.vcxproj|solutionrelative:Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5DF05D2-4ABA-48E2-8D7E-8DE0DE6109FA}|2_AssignmentClassCombat.vcxproj|D:\\Sparta\\C\u002B\u002BAssignment_2\\2_AssignmentClassCombat\\2_AssignmentClassCombat\\Magician.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -45,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B5DF05D2-4ABA-48E2-8D7E-8DE0DE6109FA}|2_AssignmentClassCombat.vcxproj|D:\\Sparta\\C\u002B\u002BAssignment_2\\2_AssignmentClassCombat\\2_AssignmentClassCombat\\Archer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B5DF05D2-4ABA-48E2-8D7E-8DE0DE6109FA}|2_AssignmentClassCombat.vcxproj|solutionrelative:Archer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5DF05D2-4ABA-48E2-8D7E-8DE0DE6109FA}|2_AssignmentClassCombat.vcxproj|D:\\Sparta\\C\u002B\u002BAssignment_2\\2_AssignmentClassCombat\\2_AssignmentClassCombat\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B5DF05D2-4ABA-48E2-8D7E-8DE0DE6109FA}|2_AssignmentClassCombat.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5DF05D2-4ABA-48E2-8D7E-8DE0DE6109FA}|2_AssignmentClassCombat.vcxproj|D:\\Sparta\\C\u002B\u002BAssignment_2\\2_AssignmentClassCombat\\2_AssignmentClassCombat\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -78,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Player.cpp",
               "DocumentMoniker": "D:\\Sparta\\C\u002B\u002BAssignment_2\\2_AssignmentClassCombat\\2_AssignmentClassCombat\\Player.cpp",
               "RelativeDocumentMoniker": "Player.cpp",
@@ -90,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Archer.cpp",
               "DocumentMoniker": "D:\\Sparta\\C\u002B\u002BAssignment_2\\2_AssignmentClassCombat\\2_AssignmentClassCombat\\Archer.cpp",
               "RelativeDocumentMoniker": "Archer.cpp",
@@ -102,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Thief.cpp",
               "DocumentMoniker": "D:\\Sparta\\C\u002B\u002BAssignment_2\\2_AssignmentClassCombat\\2_AssignmentClassCombat\\Thief.cpp",
               "RelativeDocumentMoniker": "Thief.cpp",
@@ -114,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Magician.cpp",
               "DocumentMoniker": "D:\\Sparta\\C\u002B\u002BAssignment_2\\2_AssignmentClassCombat\\2_AssignmentClassCombat\\Magician.cpp",
               "RelativeDocumentMoniker": "Magician.cpp",
@@ -139,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\Sparta\\C\u002B\u002BAssignment_2\\2_AssignmentClassCombat\\2_AssignmentClassCombat\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
@@ -153,75 +153,76 @@
         },
         {
           "DockedWidth": 203,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "Player.h",
               "DocumentMoniker": "D:\\Sparta\\C\u002B\u002BAssignment_2\\2_AssignmentClassCombat\\2_AssignmentClassCombat\\Player.h",
               "RelativeDocumentMoniker": "Player.h",
               "ToolTip": "D:\\Sparta\\C\u002B\u002BAssignment_2\\2_AssignmentClassCombat\\2_AssignmentClassCombat\\Player.h",
               "RelativeToolTip": "Player.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACwAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-14T07:05:40.809Z"
+              "WhenOpened": "2025-08-14T07:05:40.809Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Archer.h",
               "DocumentMoniker": "D:\\Sparta\\C\u002B\u002BAssignment_2\\2_AssignmentClassCombat\\2_AssignmentClassCombat\\Archer.h",
               "RelativeDocumentMoniker": "Archer.h",
               "ToolTip": "D:\\Sparta\\C\u002B\u002BAssignment_2\\2_AssignmentClassCombat\\2_AssignmentClassCombat\\Archer.h",
               "RelativeToolTip": "Archer.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-08-14T07:06:09.609Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Thief.h",
               "DocumentMoniker": "D:\\Sparta\\C\u002B\u002BAssignment_2\\2_AssignmentClassCombat\\2_AssignmentClassCombat\\Thief.h",
               "RelativeDocumentMoniker": "Thief.h",
               "ToolTip": "D:\\Sparta\\C\u002B\u002BAssignment_2\\2_AssignmentClassCombat\\2_AssignmentClassCombat\\Thief.h",
               "RelativeToolTip": "Thief.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-08-14T07:06:01.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Magician.h",
               "DocumentMoniker": "D:\\Sparta\\C\u002B\u002BAssignment_2\\2_AssignmentClassCombat\\2_AssignmentClassCombat\\Magician.h",
               "RelativeDocumentMoniker": "Magician.h",
               "ToolTip": "D:\\Sparta\\C\u002B\u002BAssignment_2\\2_AssignmentClassCombat\\2_AssignmentClassCombat\\Magician.h",
               "RelativeToolTip": "Magician.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-08-14T07:05:52.417Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Warrior.h",
               "DocumentMoniker": "D:\\Sparta\\C\u002B\u002BAssignment_2\\2_AssignmentClassCombat\\2_AssignmentClassCombat\\Warrior.h",
               "RelativeDocumentMoniker": "Warrior.h",
               "ToolTip": "D:\\Sparta\\C\u002B\u002BAssignment_2\\2_AssignmentClassCombat\\2_AssignmentClassCombat\\Warrior.h",
               "RelativeToolTip": "Warrior.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-08-14T07:05:45.565Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Monster.h",
               "DocumentMoniker": "D:\\Sparta\\C\u002B\u002BAssignment_2\\2_AssignmentClassCombat\\2_AssignmentClassCombat\\Monster.h",
               "RelativeDocumentMoniker": "Monster.h",
@@ -229,8 +230,7 @@
               "RelativeToolTip": "Monster.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-19T08:41:08.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T08:41:08.325Z"
             }
           ]
         }

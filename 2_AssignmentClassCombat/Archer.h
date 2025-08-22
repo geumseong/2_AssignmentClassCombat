@@ -9,5 +9,5 @@ public:
 	Archer(string nickname);
 	string nickname;
 	void Attack() override;
-	void Attack(Monster* monster);
+	void Attack(Monster* monster) override;
 };
